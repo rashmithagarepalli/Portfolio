@@ -25,12 +25,4 @@ A responsive personal portfolio website created using HTML and CSS.
 
 B.Tech - Artificial Intelligence and Machine Learning
 
-## Contact
-
-GitHub: Add your GitHub link  
-LinkedIn: Add your LinkedIn link
-
-## Live Website
-
-Add your GitHub Pages website link here
 
